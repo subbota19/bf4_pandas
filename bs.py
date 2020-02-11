@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 from sqlalchemy import create_engine
-import mysql.connector
 
 import pandas
 import re

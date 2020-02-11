@@ -18,5 +18,5 @@ for i, text in enumerate(main_table['cities']):
     if census_2011[i] < 500_000:
         break
 plt.grid(True)
-plt.savefig(fname='graphic.png')
-plt.show()
+# plt.savefig(fname='graphic.png')
+# plt.show()
